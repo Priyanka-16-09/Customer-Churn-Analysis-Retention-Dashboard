@@ -1,0 +1,22 @@
+Column,Meanings
+customerID,Unique Customer ID
+senior citizen,"Whether customer is a senior citizen (0 = No, 1 = Yes)"
+partner,Whether customer has a partner/spouse (Yes/No)
+dependents,Whether customer has dependents (Yes/No)
+tenure,Number of months customer has stayed with the company
+phoneservice,Whether customer has phone service (Yes/No)
+multiple lines,Whether customer has multiple phone lines (Yes/No/No phone service)
+internate service,Type of internet service used by customer (DSL/Fiber Optic/No)
+online security,Whether customer has online security service (Yes/No/No internet service)
+online backup,Whether customer has online backup service (Yes/No/No internet service)
+device protection,Whether customer has device protection service (Yes/No/No internet service)
+tech support,Whether customer has tech support service (Yes/No/No internet service)
+streaming tv,Whether customer uses streaming TV service (Yes/No/No internet service)
+streaming movie,Whether customer uses streaming movie service (Yes/No/No internet service)
+contract,Customer's contract type (Month-to-Month/One Year/Two Year)
+payment method,Method used by customer to pay bills
+monthly charges,Monthly amount charged to the customer
+total charges,Total amount charged to the customer during their tenure
+churn,Whether customer left the company (Yes/No)
+PaperlessBilling,Whether customer uses paperless billing (Yes/No)
+gender,Customer's gender (Male/Female)

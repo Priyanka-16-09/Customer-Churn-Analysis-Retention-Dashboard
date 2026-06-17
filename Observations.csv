@@ -1,0 +1,9 @@
+"The dataset contains 7,043 customer records and 21 columns."
+"The dataset includes customer demographics, subscribed services, billing information, contract details, and churn status."
+No missing values were identified in any column during the Excel data quality check.
+"All key numerical columns (tenure, MonthlyCharges, TotalCharges) were imported correctly as numeric data types."
+"No duplicate customer IDs were found, indicating each record represents a unique customer."
+"The tenure column ranges from 0 to 72 months, suggesting the dataset contains both new and long-term customers."
+"The Churn column contains two categories: Yes and No, making it suitable for churn analysis."
+"The Contract column contains three contract types: Month-to-Month, One Year, and Two Year."
+The dataset passed initial quality checks and is ready for SQL-based analysis.
